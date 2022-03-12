@@ -6,7 +6,7 @@ This project was built to provide the client marketing agency with a codebase th
 
 ## Installation
 
-All elements of this project are contained here: git@github.com:matthewestes33/homework1.git
+All elements of this project are contained here: https://github.com/matthewestes33/homework1
 
 ## Credits
 
